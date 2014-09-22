@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ErasmusLocator</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+    <string name="title_activity_main_screen">MainScreen</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_base_ex">BaseEx</string>
+
+    <string-array name="title">
+        <item>ALL</item>
+        <item>FOOD</item>
+        <item>FUN</item>
+        <item>DORM</item>
+        <item>COLLEGES</item>
+        <item>STUDY</item>
+        <item>EMBASSY</item>
+    </string-array>
+    <string-array name="titleSmall">
+        <item>All</item>
+        <item>Food</item>
+        <item>Fun</item>
+        <item>Dorm</item>
+        <item>Colleges</item>
+        <item>Study</item>
+        <item>Embassy</item>
+    </string-array>
+    <string-array name="fun">
+        <item>BARS</item>
+        <item>MUSEUMS</item>
+        <item>NIGHT CLUBS</item>
+        <item>CINEMA</item>
+    </string-array>
+
+    <string name="manjiText">visoka učilišta, menze, knjižnjice i čitaonice, domovi...</string>
+    <string name="title_activity_main_menu">Worries Over</string>
+    <string name="emergency_call">Emergency call</string>
+    <string name="important_inf">Important informations</string>
+    <string name="about_us">About us</string>
+    <string name="urgent_help">+385112</string>
+    <string name="police">+385192</string>
+    <string name="ambulance">+385194</string>
+    <string name="firefighters">+385193</string>
+    <string name="informations">+38518981</string>
+    <string name="text_after_title">1. AFTER ARRIVAL</string>
+    <string name="text_before_title">1. BEFORE ARRIVAL</string>
+    <string name="text_before">        If you will be staying in dorms you need to do regular medical sheck up and bring the doctors document with yourself.</string>
+    <string name="text_after">        Upon the arrival, you need to fo to the police station where you will get residence permits.\n\n In order to get a residents permit, you need to have:\n 1. invitation letter\n 2. copy of ID card or passport\n 3. European health insurance card\n 4. confirmation of Erasmus scholarship from your institution or a bank statement showing enough funds for living expenses\n 5. confirmation of accommodation (if you are staying in dorms you will get the card when checked in or if you find different kind of accommodation you should ask your landlords for the confirmation of accommodation).\n\n Once you have your residence permit, you need to go to the tax office in order to obtain ID number (OIB or PIN).\n\n After you will get your PIN you should bring it to Erasmus administrator on the institution of higher education that you are staying at.</string>
+    <string name="text_neki_dugacki">        Tomislav Šebalj\n\nStudent of Polytechnic University of Zagreb, Study of Electrical Engineering, specializing in Communication and computer technology. \n\nPetar Zubak\n\nStudent of Polytechnic University of Zagreb, Study of Electrical Engineering, specializing in Communication and computer technology. \n\nHrvoje Kovačićek\n\nStudent of Polytechnic University of Zagreb, Study of Information Technologies, specializing in IT-design.\n\nWe would like to help all the students on Erasmus scholarship in Zagreb to better use the time they have to visit all the locations student are usually interested in, such as dormitories, restaurants that give student discounts, Colleges, Embassies, movie theaters and lots more.</string>
+    <string name="title_activity_splash_screen">SplashScreen</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="splach_screen_text_a">ErasmusLocator</string>
+    <string name="splach_screen_text_b">find all the right places...</string>
+</resources>

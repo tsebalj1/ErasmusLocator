@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/about_us" >
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="15dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:gravity="center"
+            android:background="@color/Light_Green">
+            <ImageView
+                android:layout_width="200dp"
+                android:layout_height="180dp"
+                android:scaleType="fitStart"
+                android:src="@drawable/about_us_a"
+                android:padding="15dp"/>
+
+            <TextView
+                android:id="@+id/naslov"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="ABOUT US"
+                android:gravity="center"
+                android:textSize="25sp"
+                android:padding="8dp"
+                android:textColor="@color/white"/>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <TextView
+                android:id="@+id/ime_tima"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="I18N TEAM"
+                android:textSize="25sp"
+                android:paddingLeft="8dp"
+                android:paddingTop="20dp"/>
+
+            <TextView
+                android:id="@+id/text_opisni"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:paddingTop="10dp"
+                android:text="@string/text_neki_dugacki"/>
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>

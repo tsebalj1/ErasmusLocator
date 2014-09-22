@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="C:\Users\Tomislav\Desktop\Mc2 natjecanje\WorriesOver\app\build\intermediates\pre-dexed\debug\ormlite-android-4.48-3f936c221c1cb985d1fcdca99c60eb30026dd5fe.jar"
+        jar="C:\Users\Tomislav\.gradle\caches\modules-2\files-2.1\com.j256.ormlite\ormlite-android\4.48\afa06f539a4026c10b247386312aa67404b80a16\ormlite-android-4.48.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="afa06f539a4026c10b247386312aa67404b80a16"/>
+    <item
+        dex="C:\Users\Tomislav\Desktop\Mc2 natjecanje\WorriesOver\app\build\intermediates\pre-dexed\debug\classes-51a90d8c4de72658e10c1b16ec343ad1bfd25e17.jar"
+        jar="C:\Users\Tomislav\Desktop\Mc2 natjecanje\WorriesOver\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\19.0.1\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="f71a6822470c9eb659d4f4a6cb57b780b35f058b"/>
+    <item
+        dex="C:\Users\Tomislav\Desktop\Mc2 natjecanje\WorriesOver\app\build\intermediates\pre-dexed\debug\classes-6bbb1d052eca5516e6da4efc103789382920ab21.jar"
+        jar="C:\Users\Tomislav\Desktop\Mc2 natjecanje\WorriesOver\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\4.2.42\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="e5f81129dfb3d02df80126512bc98278ed2bb40a"/>
+    <item
+        dex="C:\Users\Tomislav\Desktop\Mc2 natjecanje\WorriesOver\app\build\intermediates\pre-dexed\debug\ormlite-core-4.48-2487b6e94b8a87fc37640d5fbaa0f23e821572da.jar"
+        jar="C:\Users\Tomislav\.gradle\caches\modules-2\files-2.1\com.j256.ormlite\ormlite-core\4.48\e579bd2905d0399af5029aaaf9817d5fa0ca88a5\ormlite-core-4.48.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="e579bd2905d0399af5029aaaf9817d5fa0ca88a5"/>
+    <item
+        dex="C:\Users\Tomislav\Desktop\Mc2 natjecanje\WorriesOver\app\build\intermediates\pre-dexed\debug\support-v4-19.0.1-c66740246d5d69b1deb92330d3de9912681e8f09.jar"
+        jar="C:\Program Files\Android\android-studio\sdk\extras\android\m2repository\com\android\support\support-v4\19.0.1\support-v4-19.0.1.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="587da9a481ffd341d2fa091704489b89845ddacd"/>
+
+</pre-dex-items>

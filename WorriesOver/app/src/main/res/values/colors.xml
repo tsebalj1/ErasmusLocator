@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <color name="zelena">#639943</color>
+    <color name="holo.light">#eeeeee</color>
+    <color name="Light_Green">#98C83E</color>
+    <color name="Light_Orange">#FDB836</color>
+    <color name="Light_Purple">#9D68AC</color>
+    <color name="Light_Red">#EF4649</color>
+    <color name="Light_Yellow">#fbb33f</color>
+    <color name="Light_Blue">#2CB3E3</color>
+    <color name="Grey">#F7F9F6</color>
+    <color name="greyish">#E6E7E8</color>
+    <color name="dark_grey">#6D6E70</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black_overlay">#66000000</color>
+
+</resources>

@@ -1,0 +1,21 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="hr.mc2.worriesover.app.MainMenu" >
+
+
+    <item
+        android:id="@+id/emergency_calls2"
+        android:title="@string/emergency_call"
+        android:orderInCategory="100"
+        android:showAsAction="never"/>
+    <item
+        android:id="@+id/important2"
+        android:title="@string/important_inf"
+        android:orderInCategory="110"
+        android:showAsAction="never"/>
+    <item
+        android:id="@+id/about_us2"
+        android:title="@string/about_us"
+        android:orderInCategory="120"
+        android:showAsAction="never"/>
+</menu>

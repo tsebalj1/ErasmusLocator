@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:id="@+id/important_informations" >
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="15dp">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:src="@drawable/important_info_a_small"
+            android:scaleType="fitCenter"/>
+        <TextView
+            android:id="@+id/naslov"
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:background="@color/Light_Green"
+            android:text="IMPORTANT INFORMATION"
+            android:textSize="20sp"
+            android:textColor="@color/white"
+            android:gravity="center"/>
+        <TextView
+            android:id="@+id/before_arrival"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="1. BEFORE ARRIVAL"
+            android:textSize="25sp"
+            android:paddingTop="25dp"
+            android:paddingLeft="5dp"/>
+        <TextView
+            android:id="@+id/before_arrival_text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/text_before"
+            android:paddingTop="15dp"
+            android:paddingLeft="5dp"/>
+        <TextView
+            android:id="@+id/after_arrival"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="2. AFTER ARRIVAL"
+            android:textSize="25sp"
+            android:paddingTop="25dp"
+            android:paddingLeft="5dp"/>
+        <TextView
+            android:id="@+id/after_arrival_text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/text_after"
+            android:paddingTop="15dp"
+            android:paddingLeft="5dp"/>
+    </LinearLayout>
+
+</ScrollView>
